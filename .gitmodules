@@ -1,0 +1,15 @@
+[submodule "ITL"]
+	path = ITL
+	url = https://github.com/Enseed/ITLModule.git
+[submodule "Generic/Devel"]
+	path = Generic/Devel
+	url = https://github.com/Enseed/GenericDevel.git
+[submodule "Generic/Base"]
+	path = Generic/Base
+	url = https://github.com/Enseed/GenericBase.git
+[submodule "Generic/Geometry"]
+	path = Generic/Geometry
+	url = https://github.com/Enseed/GenericGeometry.git
+[submodule "Generic/Math"]
+	path = Generic/Math
+	url = https://github.com/Enseed/GenericMath.git
