@@ -1,6 +1,6 @@
 [submodule "ITL"]
 	path = ITL
-	url = https://github.com/Enseed/ITLModule.git
+url=https://github.com/Enseed/ITL.git
 [submodule "Generic/Devel"]
 	path = Generic/Devel
 	url = https://github.com/Enseed/GenericDevel.git
